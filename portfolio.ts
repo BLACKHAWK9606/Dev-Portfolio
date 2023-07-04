@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'James Kamau',
   title: "Hi all, I'm James",
   description:
-    "Hello, I'm James, an entry-level full-stack developer with a passion for creating robust and user-friendly web applications. With 12 months of experience with popular technologies in the tech stack, I have developed a strong foundation in both server-side and client-side technologies.",
+    "Hello, I'm James, a full-stack developer with a passion for creating robust and user-friendly web applications. With 12 months of experience with popular technologies in the tech stack, I have developed a strong foundation in both server-side and client-side technologies.",
   resumeLink:
     'https://docs.google.com/document/d/17Fzk8f_JCXmpuhNUAxmhJtKFulnXv9IS9wZ2geWgoVk/edit?pli=1',
 };
@@ -47,6 +47,7 @@ export const skillsSection: SkillsSectionType = {
         ),
         emoji('⚡ Building responsive static websites using Next.js'),
         emoji('⚡ Building RESTful APIs in Node.js & Express Framework'),
+        emoji('⚡ Designing eye-appealing graphical content'),
       ],
       softwareSkills: [
         {
