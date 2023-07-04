@@ -123,6 +123,10 @@ export const SkillBars: SkillBarsType[] = [
     Stack: 'Problem Solving Skills',
     progressPercentage: '80',
   },
+  {
+    Stack: 'Graphic Designing',
+    progressPercentage: '75',
+  },
 ];
 
 export const educationInfo: EducationType[] = [
