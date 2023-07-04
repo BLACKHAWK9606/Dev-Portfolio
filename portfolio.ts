@@ -47,7 +47,7 @@ export const skillsSection: SkillsSectionType = {
         ),
         emoji('⚡ Building responsive static websites using Next.js'),
         emoji('⚡ Building RESTful APIs in Node.js & Express Framework'),
-        emoji('⚡ Designing eye-appealing graphical content'),
+        emoji('⚡ Designing eye-appealing graphical content from flyers, bronchures, business cards, etc.'),
       ],
       softwareSkills: [
         {
