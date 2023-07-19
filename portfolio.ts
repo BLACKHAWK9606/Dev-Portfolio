@@ -157,7 +157,7 @@ export const projects: ProjectType[] = [
   {
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: '',
+    github: 'https://github.com/BLACKHAWK9606/ENTRY-LEVEL-DEVELOPER-PORTFOLIO',
     link: '',
   },
   {
@@ -169,7 +169,14 @@ export const projects: ProjectType[] = [
   {
     name: 'Feastify',
     desc: 'Introducing Feastify, a system I made that connects multiple restaurants that provide food ordering services to possible clients',
-    github: 'https://github.com/1hanzla100/django-react-forum',
+    github: 'https://github.com/BLACKHAWK9606/Feastify',
+    link: '',
+  },
+  {
+    name: 'Recipe Finder Website',
+    desc: 'Introducing Tupike, a user-friendly platform that allows users to discover and share a wide range of recipes. It features a secure authentication system, PostgreSQL database integration, and supports image uploads for each recipe. Users can browse and save their favorite recipes, making it an essential hub for culinary enthusiasts.',
+    github: 'https://github.com/BLACKHAWK9606/RECIPE-FINDER',
+    link: '',
   },
 ];
 
